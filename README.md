@@ -1,4 +1,4 @@
-## Hi I'm Isha 👋
+## Hi, I'm Isha 👋
 
 Software engineer who builds AI products end to end, from data pipelines and model training to the APIs and web apps people use.
 
